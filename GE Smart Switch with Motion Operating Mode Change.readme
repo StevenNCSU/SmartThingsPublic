@@ -1,0 +1,12 @@
+#################################
+# GE Smart Switch with Motion Operating Mode Change
+#######
+#
+# Automatically changes the operating mode of a GE Smart Switch with
+# Motion from one of the three operating modes (Manual, Occupancy,
+# Vacancy) to another.
+#
+# Requires GE 26931 or GE 29633 device
+#               and
+# MichaelStruck : GE Motion Switch 26931 or MichaelStruck : GE Motion Dimmer Switch 26933 DTH
+#################################
